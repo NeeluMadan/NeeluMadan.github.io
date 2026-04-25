@@ -2,18 +2,17 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>PostDoc at Aalborg University, Denmark</a>
+subtitle: <a href='#'>Postdoctoral Researcher · Aalborg University, Denmark</a>
 profile:
   align: right
   image: prof_pic.png
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Aalborg University</p>
-    <p>Rendsburggade 19, 9000 Aalborg</p>
     <p>Denmark</p>
 
-news: true # includes a list of news items
-academic_service: true # Include the list of academic services
+news: false # hide news items
+academic_service: false # hide academic services
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
