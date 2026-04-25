@@ -5,7 +5,7 @@ permalink: /
 subtitle: <a href='#'>Postdoctoral Researcher · Aalborg University, Denmark</a>
 profile:
   align: right
-  image: prof_pic.png
+  image: elephant.png
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Aalborg University</p>
