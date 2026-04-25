@@ -18,7 +18,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a Postdoctoral Researcher at Aalborg University, Denmark, specializing in fine-grained video understanding and foundation models. During my PhD, I focused on understanding images and videos under limited label constraints, with a particular emphasis on video anomaly detection—a domain where labeling data is a challenging and tedious task. I was honored to receive the [Spar Nord Forskning Prize 2024](https://www.aau.dk/om-aau/profil/priser-og-haeder/spar-nord) for my extraordinary research at Aalborg University.
+I am a Postdoctoral Researcher at Aalborg University, Denmark, working at the intersection of computer vision and deep learning — particularly self-supervised learning, anomaly detection, video understanding, and hierarchical scene representations.
 
-My research interests encompass video understanding at both high and low levels, including anomaly detection, video instance segmentation, and self-supervised learning.
+I completed my Ph.D. at Aalborg University in 2023, with a visiting stint at the University of Central Florida. In 2025–26 I was a Visiting Researcher at the Vector Institute, Canada. Before academia, I spent five years as a software engineer at Cadence Design Systems building EDA tools. I was honored to receive the [Spar Nord Foundation Research Award 2024](https://www.aau.dk/om-aau/profil/priser-og-haeder/spar-nord) for my extraordinary doctoral thesis at Aalborg University.
+
+I regularly review for CVPR, ECCV, NeurIPS, TPAMI, TMLR, IJCV, and other top venues.
 

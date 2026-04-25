@@ -13,84 +13,102 @@
 - title: Education
   type: time_table
   contents:
-    - title: PhD in Computer Vision
-      institution: Aalborg University, Aalborg, Denmark
-      year: 2020 - 2024
+    - title: Ph.D. Computer Science
+      institution: Aalborg University, Denmark
+      year: 2020 - 2023
       description:
-        - "Thesis: Video Anomaly Detection under Limited Label Constraints"
-        - Focused on self-supervised learning, anomaly detection, and video understanding.
-    - title: M.Tech in Computer Science
-      institution: University of Duisburg-Essen
+        - "Awarded Oct 2023"
+        - Thesis on self-supervised learning and video anomaly detection
+    - title: M.Sc. Computer Engineering
+      institution: University of Duisburg-Essen, Germany
       year: 2017 - 2019
+      description:
+    - title: B.Sc. Electronics & Communication
+      institution: GGSIPU, India
+      year: 2009 - 2012
       description:
 
 - title: Experience
   type: time_table
   contents:
     - title: Postdoctoral Researcher
-      institution: Aalborg University, Aalborg, Denmark
-      year: 2024 - now
+      institution: Aalborg University, Denmark
+      year: 2020 - present
       description:
-        - Research in object-centric learning and foundation models.
-        - Working on video instance segmentation and self-supervised learning.
-    - title: PhD Researcher
-      institution: Aalborg University, Aalborg, Denmark
-      year: 2020 - 2024
+    - title: Visiting Researcher
+      institution: Vector Institute, Canada
+      year: Oct 2025 - Jan 2026
       description:
-        - Developed self-supervised methods for video anomaly detection.
-        - Published at top venues including TPAMI, CVPR, WACV, and ICCV.
-    - title: Invited Talk
-      institution: Linköping University, Sweden
-      year: 2024
+    - title: Visiting Ph.D. Researcher
+      institution: University of Central Florida, USA
+      year: Jun - Dec 2022
       description:
-        - Invited talk on Anomaly Detection in Videos.
+    - title: Software Engineer
+      institution: Cadence Design Systems, India
+      year: 2012 - 2017
+      description:
+        - Built EDA tools for design automation
 
 - title: Selected Publications
   type: time_table
   contents:
-    - title: <a href="https://arxiv.org/abs/2405.03770">Foundation Models for Video Understanding&#58; A Survey</a>
+    - title: A Hyperbolic Perspective on Hierarchical Structure in Object-Centric Scene Representations
+      year: 2026
+      description: CVPR Workshop 2026
+    - title: Foundation Model for Video Understanding&#58; A Survey
       year: 2024
-      description: arXiv preprint arXiv&#58;2405.03770
-    - title: <a href="https://openaccess.thecvf.com/content/WACV2024/html/Madan_CL-MAE_Curriculum-Learned_Masked_Autoencoders_WACV_2024_paper.html">CL-MAE&#58; Curriculum-Learned Masked Autoencoders</a>
+      description: arXiv preprint
+    - title: CL-MAE&#58; Curriculum-Learned Masked Autoencoders
       year: 2024
       description: IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)
-    - title: <a href="https://ieeexplore.ieee.org/document/10251607">Self-supervised Masked Convolutional Transformer Block for Anomaly Detection</a>
+    - title: Self-Supervised Masked Convolutional Transformer Block for Anomaly Detection
       year: 2023
       description: IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
-    - title: <a href="https://openaccess.thecvf.com/content/ICCV2021W/LLID/html/Madan_Temporal_Cues_From_Socially_Unacceptable_Trajectories_for_Anomaly_Detection_ICCVW_2021_paper.html">Temporal Cues from Socially Unacceptable Trajectories for Anomaly Detection</a>
+    - title: Self-Supervised Predictive Convolutional Attentive Block for Anomaly Detection
+      year: 2022
+      description: IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) - Oral
+    - title: ThermalSynth&#58; A Novel Approach for Generating Synthetic Thermal Human Scenarios
+      year: 2023
+      description: WACV Workshop 2023
+    - title: Temporal Cues From Socially Unacceptable Trajectories for Anomaly Detection
       year: 2021
-      description: IEEE/CVF International Conference on Computer Vision (ICCV)
+      description: IEEE/CVF International Conference on Computer Vision (ICCV) Workshop
 
 - title: Honors and Awards
   type: time_table
   contents:
     - year: 2024
       items:
-        - Spar Nord Forskning Prize 2024 – Aalborg University
-        - Nominated as Årets Ildsjæl at Aalborg Awards 2024
+        - "Spar Nord Foundation Research Award — for extraordinary doctoral thesis at Aalborg University"
+        - "Nominated — Årets Ildsjæl at Aalborg Awards"
+    - year: 2023
+      items:
+        - "Doctoral Consortium — ICCV, Paris"
 
 - title: Academic Interests
   type: nested_list
   contents:
+    - title: Anomaly Detection
+      items:
+        - Video anomaly detection
+        - Self-supervised learning
     - title: Video Understanding
       items:
-        - Video Anomaly Detection
-        - Video Instance Segmentation
-        - Fine-grained Video Recognition
+        - Video understanding
+        - Fine-grained video recognition
     - title: Representation Learning
       items:
-        - Self-supervised Learning
-        - Masked Autoencoders
-        - Object-Centric Learning
-    - title: Foundation Models
+        - Object-centric scene representations
+        - Self-supervised learning
+    - title: Multimodal Learning
       items:
-        - Vision-Language Models
-        - Large-scale Pre-training
-        - Transfer Learning
+        - Thermal & multimodal imaging
+        - 3D object tracking
 
 - title: Academic Service
   type: list
   contents:
-    - "Reviewer: CVPR, ICCV, ECCV, WACV, NeurIPS"
+    - "Program Committee & Reviewer: CVPR, ICCV, ECCV, WACV, NeurIPS"
     - "Reviewer: IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)"
     - "Reviewer: IEEE Transactions on Image Processing (TIP)"
+    - "Reviewer: TMLR, IJCV, TIM, TNNLS, CVIU"
