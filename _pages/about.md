@@ -7,9 +7,7 @@ profile:
   align: right
   image: elephant.png
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>Aalborg University</p>
-    <p>Denmark</p>
+  more_info:
 
 news: false # hide news items
 academic_service: false # hide academic services
